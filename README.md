@@ -1,3 +1,8 @@
+# 👩🏻‍💻  Juan Kalleo
+
+**`Desenvolvedor FullStack`**
+
+Me chamo Juan Kalleo Uchoa Fava, tenho 20 anos e sou natural de Porto Velho RO. Atualmente, estou cursando Sistemas de Informação na UNISAPIENS.
 
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/juankalleo/juankalleo/blob/main/imagem%20tolink.png" />
 &nbsp;&nbsp;&nbsp;
