@@ -25,7 +25,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!;Seja+Bem+Vindo!" alt="Typing SVG"/>
 </div>
 
 
@@ -51,12 +51,7 @@
   />
   <br>
   <br>
-  <img
-    height=154
-    align="center"
-    alt="."
-    src="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=juankalleo&theme=tokyonight&hide_border=true" alt="GitHub Streak"
-  />
+
   </div>
 
 <div align="center" style="display: inline_block"><br>
