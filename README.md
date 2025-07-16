@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1e3a8a"/>
 
 <div align="center">
   <samp>
@@ -109,4 +109,4 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=100&section=footer"/>
