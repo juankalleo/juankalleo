@@ -39,8 +39,6 @@
   <img
     height=165
     align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juankalleo&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
   />
   <br>
   <br>
