@@ -1,9 +1,9 @@
 # 💫 About Me:
 - 👋 Hi, I'm Juan Kalleo Uchoa Fava.
-- 🏢 I work as a 👨‍💻 Staff Fullstack Software Engineer at 🔐 NextTech for the Frontend team. You can see our work right here on GitHub.
-- I periodically write about secure software development and I made HTD (How to Develop), to simplify the process of learning.
-- 👀 I'm interested in Georef, CI/CD, AI training, Mangás and chess.
-- 📫 How to reach me? Find me on LinkedIn!
+- 🏢 Previously built and maintained multi-tenant production platforms for public-sector operations, real-time vehicle telemetry, and automated official gazettes using Python, Ruby on Rails, React, Next.js, TypeScript, PostgreSQL/PostGIS, and Docker.
+- I periodically write about secure software development and I made HTD (How to Develop) howtodev.com, to simplify the process of learning.
+- 👀 Interests: Distributed Systems, Geospatial Data (PostGIS), CI/CD & DevSecOps, Applied AI / RAG, Chess, and Manga.
+- 📫 How to reach me: Check out my portfolio at https://juankalleo.site or connect on LinkedIn (https://www.linkedin.com/in/juan-kalleo-1a8604353)!
 
 <br>
 
